@@ -10,9 +10,9 @@
 ![封面](image/Wordcloud.png)
 ### 我们是谁？
 
-我们来自国内外知名高校及优秀在职教师。
+我们来自国内外知名高校及中学优秀在职教师。
 
 ### 请联系我
-![QQ](image/QQ.jpg)
+![QQ](image/Wechat.jpg)
 
-![wechat](image/Wechat.jpg)
+![wechat](image/QQ.jpg)
